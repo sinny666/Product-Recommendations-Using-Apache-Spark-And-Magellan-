@@ -1,4 +1,4 @@
-# Product-Recommendations-Using-Spark-ML-&-Magellan
+# Product Recommendations Using Apache Spark + Magellan¶
 ## What is Magellan ?
 
 Magellan is a flexible, AI-powered Analytics platform that combines open source ML with advanced analytics, enterprise-grade BI, and capabilities to acquire, merge, manage and analyze Big Data and Big Content stored in your Enterprise Information Management (EIM) systems. Magellan enables machine-assisted decision making, automation, and business optimization.
